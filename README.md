@@ -7,7 +7,7 @@
 
 ---
 
-Опыт в коммерческой разработке **4 года**, веду проекты и задачи полным циклом от сбора требований до поставки и сопровождения. Работаю в паттернах монолита и МСА. Проектирую сложные синхронные (REST, gRPC) и асинхронные (Kafka) контракты, работаю с SQL/NoSQL (Postgres, Redis) базами данных и формирую nребования в нотациях BPMN и UML. 
+Опыт в коммерческой разработке **4 года**, веду проекты и задачи полным циклом от сбора требований до поставки и сопровождения. Работаю с монолитной и микросервисной архитектурой (MSA). Проектирую сложные синхронные (REST, gRPC) и асинхронные (Kafka) контракты, работаю с SQL/NoSQL (Postgres, Redis) базами данных и формирую требования в нотациях BPMN и UML. 
 
 
 Основные домены:
@@ -21,25 +21,25 @@
 
 ## 🛠️ Технический стек & Инструменты
 
-**Databases**
+**Базы данных**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
 
-**API & Integration**
+**Интеграции, API**
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-**Messaging**
+**Брокеры и шины**
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![ESB](https://img.shields.io/badge/Factor%20ESB-0052CC?style=flat-square&logo=apache&logoColor=white)
 
 
-**Modeling & Docs**
+**Моделирование, документация**
 ![BPMN](https://img.shields.io/badge/BPMN-FF6C37?style=flat-square&logo=processwire&logoColor=white)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705?style=flat-square&logo=diagrams.net&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
